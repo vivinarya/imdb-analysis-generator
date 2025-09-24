@@ -53,7 +53,7 @@ imdb-sentiment-analysis/
 ## Confusion Matrix Analysis
 
 ### Logistic Regression Results
-![Confusion Matrix - Logistic Regression](results/confusion_matrix_logistic.png)
+![Confusion Matrix - Logistic Regression](results/confusion_matrix.png)
 
 The logistic regression model achieved the best performance with:
 - True Negatives: 6,518
