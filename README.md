@@ -2,6 +2,8 @@
 
 A machine learning project that analyzes IMDB movie reviews to classify sentiment as positive or negative using multiple classification algorithms.
 
+also since i fine tuned this models came out large so havent added them so please run the script to get your models 
+
 ## Project Overview
 
 This project implements and compares three different machine learning models for sentiment analysis on IMDB movie reviews:
